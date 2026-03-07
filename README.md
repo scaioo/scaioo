@@ -51,7 +51,6 @@ Here are some of the key projects I've worked on:
 
 Feel free to explore my repositories and get in touch if you want to collaborate or chat about physics, complex systems, biophysics, and AI!
 
-[![LinkedIn]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/andrea-scaioli-b56030279/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli-b56030279/)
 ---
 *Let's connect and build amazing things together!* 🚀
