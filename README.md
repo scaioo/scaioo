@@ -28,6 +28,7 @@ Here are some of the key projects I've worked on:
 
 **Languages & OS** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -50,7 +51,7 @@ Here are some of the key projects I've worked on:
 
 Feel free to explore my repositories and get in touch if you want to collaborate or chat about physics, complex systems, biophysics, and AI!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli/)
+[![LinkedIn]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/andrea-scaioli-b56030279/))
 
 ---
 *Let's connect and build amazing things together!* 🚀
