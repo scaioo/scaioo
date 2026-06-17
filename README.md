@@ -1,7 +1,5 @@
 # Andrea Scaioli
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli-b56030279/)
-
 I am a **Master's Candidate in Physics** at the **University of Milan**, specializing in the intersection of **Biophysics**, **Materials Science**, **Complex Systems**, and **Artificial Intelligence**. 
 
 ## 🔬 Profile
@@ -40,4 +38,6 @@ I am a **Master's Candidate in Physics** at the **University of Milan**, special
 
 ## Contact
 
-Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/andrea-scaioli-b56030279/)** if you are interested in collaborating or discussing my projects.
+Feel free to reach out via email: andrea.scaioli@studenti.unimi.it if you are interested in collaborating or discussing my projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli-b56030279/)
