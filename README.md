@@ -1,6 +1,6 @@
 # Andrea Scaioli
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scaioo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli-b56030279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scaioli-b56030279/)
 
 I am a **Master's Candidate in Physics** at the **University of Milan**, specializing in the intersection of **Biophysics**, **Materials Science**, **Complex Systems**, and **Artificial Intelligence**. 
 
