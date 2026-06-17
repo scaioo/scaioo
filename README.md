@@ -8,7 +8,7 @@ I am a **Master's student in Physics** at the **University of Milan**, specializ
 
 - 🧬 Passionate about computational approaches to biological systems, advanced materials, and complex networks.
 - 💻 Skilled in molecular dynamics simulations and machine learning/AI models applied to physical and biological data.
-- 🎓 Currently working on advanced physics simulations and atomistic machine learning, building on my experience from UniMi and Frnkfurt.
+- 🎓 Currently working on advanced physics simulations and atomistic machine learning, building on my experience from UniMi and Frankfurt.
 - 🤝 Enthusiastic about sharing knowledge, solving complex problems, and collaborating on open-source projects.
 
 ---
